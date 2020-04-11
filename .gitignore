@@ -35,3 +35,11 @@ secrets.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# tex crust
+*.aux
+*.log
+*.out
+*.synctex*
+*.toc
+*.dvi
